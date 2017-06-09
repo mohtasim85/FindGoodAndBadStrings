@@ -1,0 +1,14 @@
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Infrastructure\bin\Debug\KodUppgift.Infrastructure.dll
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Infrastructure\bin\Debug\KodUppgift.Infrastructure.pdb
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Infrastructure\bin\Debug\KodUppgift.Core.dll
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Infrastructure\bin\Debug\KodUppgift.Core.pdb
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Infrastructure\obj\Debug\KodUppgift.Infrastructure.csprojResolveAssemblyReference.cache
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Infrastructure\obj\Debug\KodUppgift.Infrastructure.dll
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Infrastructure\obj\Debug\KodUppgift.Infrastructure.pdb
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Infrastructure\bin\Debug\KodUppgift.Infrastructure.dll
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Infrastructure\bin\Debug\KodUppgift.Infrastructure.pdb
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Infrastructure\bin\Debug\KodUppgift.Core.dll
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Infrastructure\bin\Debug\KodUppgift.Core.pdb
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Infrastructure\obj\Debug\KodUppgift.Infrastructure.csprojResolveAssemblyReference.cache
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Infrastructure\obj\Debug\KodUppgift.Infrastructure.dll
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Infrastructure\obj\Debug\KodUppgift.Infrastructure.pdb

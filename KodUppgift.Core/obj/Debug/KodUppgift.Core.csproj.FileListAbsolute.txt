@@ -1,0 +1,9 @@
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Core\bin\Debug\KodUppgift.Core.dll
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Core\bin\Debug\KodUppgift.Core.pdb
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Core\obj\Debug\KodUppgift.Core.dll
+C:\PERSONAL\VSprojects\KodUppgift\KodUppgift.Core\obj\Debug\KodUppgift.Core.pdb
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Core\bin\Debug\KodUppgift.Core.dll
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Core\bin\Debug\KodUppgift.Core.pdb
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Core\obj\Debug\KodUppgift.Core.csprojResolveAssemblyReference.cache
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Core\obj\Debug\KodUppgift.Core.dll
+C:\PERSONAL\VSprojects\KodUppgift-TUI\KodUppgift.Core\obj\Debug\KodUppgift.Core.pdb
