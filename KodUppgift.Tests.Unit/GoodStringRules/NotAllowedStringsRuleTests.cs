@@ -15,6 +15,8 @@ namespace KodUppgift.Tests.Unit.GoodStringRules
             Assert.True(rule.Validate("cfg"));
             Assert.True(rule.Validate("p"));
             Assert.True(rule.Validate("xsfads"));
+            
+            Assert.True(rule.Validate("asdf"));
         }
 
         [Test()]
